@@ -1,0 +1,15 @@
+.logo span,
+.header .toggle-sidebar-btn,
+.sidebar-nav .nav-link,
+.sidebar-nav .nav-link i,
+.sidebar-nav .nav-link i:hover,
+.sidebar-nav .nav-link:hover,
+a.product-title,
+.header-nav .nav-profile{
+    color: #000000 !important;
+}
+
+a.product-title:hover {
+    text-decoration: revert;
+    opacity: 0.7;
+}
